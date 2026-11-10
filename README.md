@@ -8,15 +8,14 @@ From the database to the browser, I build full web apps from scratch.
 
 ---
 
-### 🚀 What I'm up to
-- 🔥 **Building** **dapoer-kokoh-pos**, a point-of-sale system that runs a real business
-- 🧠 **Leveling up** every day, one commit at a time
-- 💬 **Talk to me about** PHP, MySQL, JavaScript, React and C
-- 🎯 **Mission:** turn ideas into working software
+### What I'm up to
+- **Leveling up** every day, one commit at a time
+- **Talk to me about** PHP, MySQL, JavaScript, React and C
+- **Mission:** turn ideas into working software
 
 ---
 
-### 🛠️ My Arsenal
+###  My Arsenal
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -28,8 +27,7 @@ From the database to the browser, I build full web apps from scratch.
 ---
 
 ### 📊 Battle Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=edwinkz-11&show_icons=true&theme=tokyonight&hide_border=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinkz-11&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=edwinkz-11&theme=tokyonight&hide_border=true)
 
 ---
 
