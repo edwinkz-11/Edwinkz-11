@@ -25,10 +25,6 @@ From the database to the browser, I build full web apps from scratch.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 📊 Battle Stats
-![Streak](https://streak-stats.demolab.com?user=edwinkz-11&theme=tokyonight&hide_border=true)
-
 ---
 
 ### 📫 Find Me
